@@ -1,4 +1,4 @@
-# Online Website Portfolio
+# Practice Online Website Portfolio
 
 This online website portfolio is built using HTML, CSS and JavaScript and is designed to showcase your work and achievements. It includes an 'About Me' page that explains who you are and what you do, a section for your projects, social links (GitHub and Linkedin), as well as a link to a pdf resume, and a contact form for potential employers and customers to reach out to you.
 
