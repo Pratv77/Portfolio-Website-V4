@@ -2,8 +2,6 @@
 
 This online website portfolio is built using HTML, CSS and JavaScript and is designed to showcase your work and achievements. It includes an 'About Me' page that explains who you are and what you do, a section for your projects, social links (GitHub and Linkedin), as well as a link to a pdf resume, and a contact form for potential employers and customers to reach out to you. 
 
-**Note: The projects section looks a bit weird because I didn't put my projects in the template, when you put your own image into it and style the sizing it'll appear as it should.**
-
 ## Features
 
 - Built using HTML, CSS and JavaScript
