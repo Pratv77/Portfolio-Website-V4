@@ -47,7 +47,7 @@ label {
 
 input:hover,
 textarea:hover {
-  border-color: white;
+  border-color: #f5f5f5;
 }
 
 input:focus,
@@ -531,6 +531,7 @@ nav {
 
 .project__img {
   width: 100%;
+  transform: scale(1.02);
   transition: all 600ms ease;
 }
 
