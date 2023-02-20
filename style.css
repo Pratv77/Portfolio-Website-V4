@@ -107,6 +107,19 @@ a {
   transform: scale(0.8);
 }
 
+.click1 {
+  transition: all 300ms ease;
+  cursor: pointer;
+}
+
+.click1:hover {
+  transform: scale(1.15);
+}
+
+.click1:active {
+  transform: scale(0.8);
+}
+
 button {
   cursor: pointer;
 }
